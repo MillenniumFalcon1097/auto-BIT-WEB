@@ -11,7 +11,8 @@ PASSWD=global_config.getRaw('config','PASSWD')
 
 
 def log_online():
-    log=open("/home/avalanche/Desktop/auto_online/doc.txt",'a+')
+    log_file=global_config.getRaw('config','LOG')
+    log=open(log_file,'a+')
     driver=webdriver.Firefox()
     driver.get("http://10.0.0.55/srun_portal_pc?ac_id=1&theme=bit")
     time.sleep(5)
