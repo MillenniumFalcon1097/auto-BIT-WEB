@@ -1,4 +1,4 @@
-# Python Script for BIT-Web Auto Connected
+# Python Script for BIT-Web Auto Connection
 <br><br>
 This is a python-implemented script for auto connecting to BIT-Web. If you find ti helpful, please click **star** for me.
 
