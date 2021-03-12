@@ -1,4 +1,4 @@
-#! /home/avalanche/anaconda3/envs/deep0/bin/python
+
 import time
 import os
 from selenium import webdriver
