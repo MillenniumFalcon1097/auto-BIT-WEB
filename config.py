@@ -7,7 +7,7 @@ class Config(object):
         if not os.path.exists(self._path):
             raise FileNotFoundError("No such file: config.ini")
         self._config = configparser.ConfigParser()
-        self._config.read(self._path, encoding='uft-8-sig')
+        self._config.read(self._path, encoding='utf-8-sig')
         self._configRaw = configparser.RawConfigParser()
         self._configRaw.read(self._path,encoding='utf-8-sig')
     
