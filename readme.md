@@ -1,6 +1,7 @@
 # Python Script for BIT-Web Auto Connection
 <br><br>
 This is a python-implemented script for auto connecting to BIT-Web. If you find it helpful, please click **star** for me.
+BIT-Web refers to the CN of Beijing Institute of Technology named "BIT-Web"
 
 **Note**: The current script only works in Ubuntu. Another version for Windows is under construction.  
 
