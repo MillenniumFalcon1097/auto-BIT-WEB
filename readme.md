@@ -16,7 +16,7 @@ BIT-Web refers to the CN of Beijing Institute of Technology named "BIT-Web"
 - Clone this repo:
 ```bash
 git clone https://github.com/MillenniumFalcon1097/auto_BIT_WEB.git
-cd pytorch-CycleGAN-and-pix2pix
+cd auto_BIT_WEB
 ```
 - Install [Geckodriver](https://github.com/mozilla/geckodriver/releases) | which is used to drive the browser and simulate mouse action. (I assume you already have Firefox installed on your system.)
 - Install Selenium:
