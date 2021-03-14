@@ -6,7 +6,7 @@ BIT-Web refers to the CN of Beijing Institute of Technology named "BIT-Web"
 **Note**: The current script only works in Ubuntu. Another version for Windows is under construction.  
 
 ## Prerequisites
-- Ubuntu LTS with native FireFox installed
+- Ubuntu LTS with native FireFox Browser installed
 - Python 3.x
 
 
