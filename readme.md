@@ -19,6 +19,9 @@ git clone https://github.com/MillenniumFalcon1097/auto_BIT_WEB.git
 cd auto_BIT_WEB
 ```
 - Install [Geckodriver](https://github.com/mozilla/geckodriver/releases) | which is used to drive the browser and simulate mouse action. (I assume you already have Firefox installed on your system.)
+  - After extraction, move the folder to `/usr/bin`.
+  - Then ` sudo gedit /etc/profile`, add the following line to the end of the file:
+  `export PATH="$PATH: /opt/firefox:/usr/bin"`
 - Install Selenium:
   - **(Recommend)** For pip users, please type the command `sudo pip install selenium`.
   - For Conda users, you can create a new Conda environment and then install via `conda install selenium`.
