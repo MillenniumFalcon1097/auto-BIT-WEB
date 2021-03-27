@@ -1,0 +1,304 @@
+Traceback (most recent call last):
+  File "/home/avalanche/Desktop/auto_online/main.py", line 5, in <module>
+    from config import global_config
+  File "/home/avalanche/Desktop/auto_online/config.py", line 20, in <module>
+    global_config = Config()
+  File "/home/avalanche/Desktop/auto_online/config.py", line 8, in __init__
+    raise FileNotFoundError("No such file: config.ini")
+FileNotFoundError: No such file: config.ini
+Traceback (most recent call last):
+  File "/home/avalanche/Desktop/auto_online/main.py", line 5, in <module>
+    from config import global_config
+  File "/home/avalanche/Desktop/auto_online/config.py", line 20, in <module>
+    global_config = Config()
+  File "/home/avalanche/Desktop/auto_online/config.py", line 8, in __init__
+    raise FileNotFoundError("No such file: config.ini")
+FileNotFoundError: No such file: config.ini
+Traceback (most recent call last):
+  File "/home/avalanche/Desktop/auto_online/main.py", line 5, in <module>
+    from config import global_config
+  File "/home/avalanche/Desktop/auto_online/config.py", line 20, in <module>
+    global_config = Config()
+  File "/home/avalanche/Desktop/auto_online/config.py", line 8, in __init__
+    raise FileNotFoundError("No such file: config.ini")
+FileNotFoundError: No such file: config.ini
+Traceback (most recent call last):
+  File "/home/avalanche/Desktop/auto_online/main.py", line 5, in <module>
+    from config import global_config
+  File "/home/avalanche/Desktop/auto_online/config.py", line 20, in <module>
+    global_config = Config()
+  File "/home/avalanche/Desktop/auto_online/config.py", line 8, in __init__
+    raise FileNotFoundError("No such file: config.ini")
+FileNotFoundError: No such file: config.ini
+Traceback (most recent call last):
+  File "/home/avalanche/Desktop/auto_online/main.py", line 5, in <module>
+    from config import global_config
+  File "/home/avalanche/Desktop/auto_online/config.py", line 20, in <module>
+    global_config = Config()
+  File "/home/avalanche/Desktop/auto_online/config.py", line 8, in __init__
+    raise FileNotFoundError("No such file: config.ini")
+FileNotFoundError: No such file: config.ini
+Traceback (most recent call last):
+  File "/home/avalanche/Desktop/auto_online/main.py", line 5, in <module>
+    from config import global_config
+  File "/home/avalanche/Desktop/auto_online/config.py", line 20, in <module>
+    global_config = Config()
+  File "/home/avalanche/Desktop/auto_online/config.py", line 8, in __init__
+    raise FileNotFoundError("No such file: config.ini")
+FileNotFoundError: No such file: config.ini
+Traceback (most recent call last):
+  File "/home/avalanche/Desktop/auto_online/main.py", line 5, in <module>
+    from config import global_config
+  File "/home/avalanche/Desktop/auto_online/config.py", line 20, in <module>
+    global_config = Config()
+  File "/home/avalanche/Desktop/auto_online/config.py", line 8, in __init__
+    raise FileNotFoundError("No such file: config.ini")
+FileNotFoundError: No such file: config.ini
+Traceback (most recent call last):
+  File "/home/avalanche/Desktop/auto_online/main.py", line 5, in <module>
+    from config import global_config
+  File "/home/avalanche/Desktop/auto_online/config.py", line 20, in <module>
+    global_config = Config()
+  File "/home/avalanche/Desktop/auto_online/config.py", line 8, in __init__
+    raise FileNotFoundError("No such file: config.ini")
+FileNotFoundError: No such file: config.ini
+Traceback (most recent call last):
+  File "/home/avalanche/Desktop/auto_online/main.py", line 5, in <module>
+    from config import global_config
+  File "/home/avalanche/Desktop/auto_online/config.py", line 20, in <module>
+    global_config = Config()
+  File "/home/avalanche/Desktop/auto_online/config.py", line 8, in __init__
+    raise FileNotFoundError("No such file: config.ini")
+FileNotFoundError: No such file: config.ini
+Traceback (most recent call last):
+  File "/home/avalanche/Desktop/auto_online/main.py", line 5, in <module>
+    from config import global_config
+  File "/home/avalanche/Desktop/auto_online/config.py", line 20, in <module>
+    global_config = Config()
+  File "/home/avalanche/Desktop/auto_online/config.py", line 8, in __init__
+    raise FileNotFoundError("No such file: config.ini")
+FileNotFoundError: No such file: config.ini
+Traceback (most recent call last):
+  File "/home/avalanche/Desktop/auto_online/main.py", line 5, in <module>
+    from config import global_config
+  File "/home/avalanche/Desktop/auto_online/config.py", line 20, in <module>
+    global_config = Config()
+  File "/home/avalanche/Desktop/auto_online/config.py", line 8, in __init__
+    raise FileNotFoundError("No such file: config.ini")
+FileNotFoundError: No such file: config.ini
+Traceback (most recent call last):
+  File "/home/avalanche/Desktop/auto_online/main.py", line 5, in <module>
+    from config import global_config
+  File "/home/avalanche/Desktop/auto_online/config.py", line 20, in <module>
+    global_config = Config()
+  File "/home/avalanche/Desktop/auto_online/config.py", line 8, in __init__
+    raise FileNotFoundError("No such file: config.ini")
+FileNotFoundError: No such file: config.ini
+Traceback (most recent call last):
+  File "/home/avalanche/Desktop/auto_online/main.py", line 5, in <module>
+    from config import global_config
+  File "/home/avalanche/Desktop/auto_online/config.py", line 20, in <module>
+    global_config = Config()
+  File "/home/avalanche/Desktop/auto_online/config.py", line 8, in __init__
+    raise FileNotFoundError("No such file: config.ini")
+FileNotFoundError: No such file: config.ini
+Traceback (most recent call last):
+  File "/home/avalanche/Desktop/auto_online/main.py", line 5, in <module>
+    from config import global_config
+  File "/home/avalanche/Desktop/auto_online/config.py", line 20, in <module>
+    global_config = Config()
+  File "/home/avalanche/Desktop/auto_online/config.py", line 8, in __init__
+    raise FileNotFoundError("No such file: config.ini")
+FileNotFoundError: No such file: config.ini
+Traceback (most recent call last):
+  File "/home/avalanche/Desktop/auto_online/main.py", line 5, in <module>
+    from config import global_config
+  File "/home/avalanche/Desktop/auto_online/config.py", line 20, in <module>
+    global_config = Config()
+  File "/home/avalanche/Desktop/auto_online/config.py", line 8, in __init__
+    raise FileNotFoundError("No such file: config.ini")
+FileNotFoundError: No such file: config.ini
+Traceback (most recent call last):
+  File "/home/avalanche/Desktop/auto_online/main.py", line 5, in <module>
+    from config import global_config
+  File "/home/avalanche/Desktop/auto_online/config.py", line 20, in <module>
+    global_config = Config()
+  File "/home/avalanche/Desktop/auto_online/config.py", line 8, in __init__
+    raise FileNotFoundError("No such file: config.ini")
+FileNotFoundError: No such file: config.ini
+Traceback (most recent call last):
+  File "/home/avalanche/Desktop/auto_online/main.py", line 5, in <module>
+    from config import global_config
+  File "/home/avalanche/Desktop/auto_online/config.py", line 20, in <module>
+    global_config = Config()
+  File "/home/avalanche/Desktop/auto_online/config.py", line 8, in __init__
+    raise FileNotFoundError("No such file: config.ini")
+FileNotFoundError: No such file: config.ini
+Traceback (most recent call last):
+  File "/home/avalanche/Desktop/auto_online/main.py", line 5, in <module>
+    from config import global_config
+  File "/home/avalanche/Desktop/auto_online/config.py", line 20, in <module>
+    global_config = Config()
+  File "/home/avalanche/Desktop/auto_online/config.py", line 8, in __init__
+    raise FileNotFoundError("No such file: config.ini")
+FileNotFoundError: No such file: config.ini
+Traceback (most recent call last):
+  File "/home/avalanche/Desktop/auto_online/main.py", line 5, in <module>
+    from config import global_config
+  File "/home/avalanche/Desktop/auto_online/config.py", line 20, in <module>
+    global_config = Config()
+  File "/home/avalanche/Desktop/auto_online/config.py", line 8, in __init__
+    raise FileNotFoundError("No such file: config.ini")
+FileNotFoundError: No such file: config.ini
+Traceback (most recent call last):
+  File "/home/avalanche/Desktop/auto_online/main.py", line 5, in <module>
+    from config import global_config
+  File "/home/avalanche/Desktop/auto_online/config.py", line 20, in <module>
+    global_config = Config()
+  File "/home/avalanche/Desktop/auto_online/config.py", line 8, in __init__
+    raise FileNotFoundError("No such file: config.ini")
+FileNotFoundError: No such file: config.ini
+Traceback (most recent call last):
+  File "/home/avalanche/Desktop/auto_online/main.py", line 5, in <module>
+    from config import global_config
+  File "/home/avalanche/Desktop/auto_online/config.py", line 20, in <module>
+    global_config = Config()
+  File "/home/avalanche/Desktop/auto_online/config.py", line 8, in __init__
+    raise FileNotFoundError("No such file: config.ini")
+FileNotFoundError: No such file: config.ini
+Traceback (most recent call last):
+  File "/home/avalanche/Desktop/auto_online/main.py", line 5, in <module>
+    from config import global_config
+  File "/home/avalanche/Desktop/auto_online/config.py", line 20, in <module>
+    global_config = Config()
+  File "/home/avalanche/Desktop/auto_online/config.py", line 8, in __init__
+    raise FileNotFoundError("No such file: config.ini")
+FileNotFoundError: No such file: config.ini
+Traceback (most recent call last):
+  File "/home/avalanche/Desktop/auto_online/main.py", line 5, in <module>
+    from config import global_config
+  File "/home/avalanche/Desktop/auto_online/config.py", line 20, in <module>
+    global_config = Config()
+  File "/home/avalanche/Desktop/auto_online/config.py", line 8, in __init__
+    raise FileNotFoundError("No such file: config.ini")
+FileNotFoundError: No such file: config.ini
+Traceback (most recent call last):
+  File "/home/avalanche/Desktop/auto_online/main.py", line 5, in <module>
+    from config import global_config
+  File "/home/avalanche/Desktop/auto_online/config.py", line 20, in <module>
+    global_config = Config()
+  File "/home/avalanche/Desktop/auto_online/config.py", line 8, in __init__
+    raise FileNotFoundError("No such file: config.ini")
+FileNotFoundError: No such file: config.ini
+Traceback (most recent call last):
+  File "/home/avalanche/Desktop/auto_online/main.py", line 5, in <module>
+    from config import global_config
+  File "/home/avalanche/Desktop/auto_online/config.py", line 20, in <module>
+    global_config = Config()
+  File "/home/avalanche/Desktop/auto_online/config.py", line 8, in __init__
+    raise FileNotFoundError("No such file: config.ini")
+FileNotFoundError: No such file: config.ini
+Traceback (most recent call last):
+  File "/home/avalanche/Desktop/auto_online/main.py", line 5, in <module>
+    from config import global_config
+  File "/home/avalanche/Desktop/auto_online/config.py", line 20, in <module>
+    global_config = Config()
+  File "/home/avalanche/Desktop/auto_online/config.py", line 8, in __init__
+    raise FileNotFoundError("No such file: config.ini")
+FileNotFoundError: No such file: config.ini
+Traceback (most recent call last):
+  File "/home/avalanche/Desktop/auto_online/main.py", line 5, in <module>
+    from config import global_config
+  File "/home/avalanche/Desktop/auto_online/config.py", line 20, in <module>
+    global_config = Config()
+  File "/home/avalanche/Desktop/auto_online/config.py", line 8, in __init__
+    raise FileNotFoundError("No such file: config.ini")
+FileNotFoundError: No such file: config.ini
+Traceback (most recent call last):
+  File "/home/avalanche/Desktop/auto_online/main.py", line 5, in <module>
+    from config import global_config
+  File "/home/avalanche/Desktop/auto_online/config.py", line 20, in <module>
+    global_config = Config()
+  File "/home/avalanche/Desktop/auto_online/config.py", line 8, in __init__
+    raise FileNotFoundError("No such file: config.ini")
+FileNotFoundError: No such file: config.ini
+Traceback (most recent call last):
+  File "/home/avalanche/Desktop/auto_online/main.py", line 5, in <module>
+    from config import global_config
+  File "/home/avalanche/Desktop/auto_online/config.py", line 20, in <module>
+    global_config = Config()
+  File "/home/avalanche/Desktop/auto_online/config.py", line 8, in __init__
+    raise FileNotFoundError("No such file: config.ini")
+FileNotFoundError: No such file: config.ini
+Traceback (most recent call last):
+  File "/home/avalanche/Desktop/auto_online/main.py", line 5, in <module>
+    from config import global_config
+  File "/home/avalanche/Desktop/auto_online/config.py", line 20, in <module>
+    global_config = Config()
+  File "/home/avalanche/Desktop/auto_online/config.py", line 8, in __init__
+    raise FileNotFoundError("No such file: config.ini")
+FileNotFoundError: No such file: config.ini
+Traceback (most recent call last):
+  File "/home/avalanche/Desktop/auto_online/main.py", line 5, in <module>
+    from config import global_config
+  File "/home/avalanche/Desktop/auto_online/config.py", line 20, in <module>
+    global_config = Config()
+  File "/home/avalanche/Desktop/auto_online/config.py", line 8, in __init__
+    raise FileNotFoundError("No such file: config.ini")
+FileNotFoundError: No such file: config.ini
+Traceback (most recent call last):
+  File "/home/avalanche/Desktop/auto_online/main.py", line 5, in <module>
+    from config import global_config
+  File "/home/avalanche/Desktop/auto_online/config.py", line 20, in <module>
+    global_config = Config()
+  File "/home/avalanche/Desktop/auto_online/config.py", line 8, in __init__
+    raise FileNotFoundError("No such file: config.ini")
+FileNotFoundError: No such file: config.ini
+Traceback (most recent call last):
+  File "/home/avalanche/Desktop/auto_online/main.py", line 5, in <module>
+    from config import global_config
+  File "/home/avalanche/Desktop/auto_online/config.py", line 20, in <module>
+    global_config = Config()
+  File "/home/avalanche/Desktop/auto_online/config.py", line 8, in __init__
+    raise FileNotFoundError("No such file: config.ini")
+FileNotFoundError: No such file: config.ini
+Traceback (most recent call last):
+  File "/home/avalanche/Desktop/auto_online/main.py", line 5, in <module>
+    from config import global_config
+  File "/home/avalanche/Desktop/auto_online/config.py", line 20, in <module>
+    global_config = Config()
+  File "/home/avalanche/Desktop/auto_online/config.py", line 8, in __init__
+    raise FileNotFoundError("No such file: config.ini")
+FileNotFoundError: No such file: config.ini
+Traceback (most recent call last):
+  File "/home/avalanche/Desktop/auto_online/main.py", line 5, in <module>
+    from config import global_config
+  File "/home/avalanche/Desktop/auto_online/config.py", line 20, in <module>
+    global_config = Config()
+  File "/home/avalanche/Desktop/auto_online/config.py", line 8, in __init__
+    raise FileNotFoundError("No such file: config.ini")
+FileNotFoundError: No such file: config.ini
+Traceback (most recent call last):
+  File "/home/avalanche/Desktop/auto_online/main.py", line 5, in <module>
+    from config import global_config
+  File "/home/avalanche/Desktop/auto_online/config.py", line 20, in <module>
+    global_config = Config()
+  File "/home/avalanche/Desktop/auto_online/config.py", line 8, in __init__
+    raise FileNotFoundError("No such file: config.ini")
+FileNotFoundError: No such file: config.ini
+Traceback (most recent call last):
+  File "/home/avalanche/Desktop/auto_online/main.py", line 5, in <module>
+    from config import global_config
+  File "/home/avalanche/Desktop/auto_online/config.py", line 20, in <module>
+    global_config = Config()
+  File "/home/avalanche/Desktop/auto_online/config.py", line 8, in __init__
+    raise FileNotFoundError("No such file: config.ini")
+FileNotFoundError: No such file: config.ini
+Traceback (most recent call last):
+  File "/home/avalanche/Desktop/auto_online/main.py", line 5, in <module>
+    from config import global_config
+  File "/home/avalanche/Desktop/auto_online/config.py", line 20, in <module>
+    global_config = Config()
+  File "/home/avalanche/Desktop/auto_online/config.py", line 8, in __init__
+    raise FileNotFoundError("No such file: config.ini")
+FileNotFoundError: No such file: config.ini

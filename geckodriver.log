@@ -1,0 +1,260 @@
+1615968647250	geckodriver	INFO	Listening on 127.0.0.1:50021
+1615968648251	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileY8Xc5p"
+
+(firefox:16271): Gtk-WARNING **: 16:10:48.635: Theme directory 32@2x/devices of theme Vimix has no size field
+
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615968649484	Marionette	INFO	Listening on port 34107
+1615968649566	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615968654930	Marionette	INFO	Stopped listening on port 34107
+1615979771317	geckodriver	INFO	Listening on 127.0.0.1:57985
+1615979771320	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilej3r1aN"
+
+(firefox:6885): Gtk-WARNING **: 19:16:11.682: Theme directory 32@2x/devices of theme Vimix has no size field
+
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615979772793	Marionette	INFO	Listening on port 40045
+1615979772837	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615979778237	Marionette	INFO	Stopped listening on port 40045
+1615981571413	geckodriver	INFO	Listening on 127.0.0.1:56565
+1615981571416	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileSK82ry"
+
+(firefox:10793): Gtk-WARNING **: 19:46:11.814: Theme directory 32@2x/devices of theme Vimix has no size field
+
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615981572683	Marionette	INFO	Listening on port 43347
+1615981572732	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615981578121	Marionette	INFO	Stopped listening on port 43347
+1615983371425	geckodriver	INFO	Listening on 127.0.0.1:49041
+1615983371429	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilenoYYK1"
+
+(firefox:15093): Gtk-WARNING **: 20:16:11.845: Theme directory 32@2x/devices of theme Vimix has no size field
+
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615983372733	Marionette	INFO	Listening on port 39863
+1615983372847	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615983378221	Marionette	INFO	Stopped listening on port 39863
+1615985171525	geckodriver	INFO	Listening on 127.0.0.1:36779
+1615985171529	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile8KKgrw"
+
+(firefox:19470): Gtk-WARNING **: 20:46:11.900: Theme directory 32@2x/devices of theme Vimix has no size field
+
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615985172731	Marionette	INFO	Listening on port 46491
+1615985172848	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615985178217	Marionette	INFO	Stopped listening on port 46491
+1615986971626	geckodriver	INFO	Listening on 127.0.0.1:53177
+1615986971631	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileiSjaR4"
+
+(firefox:23148): Gtk-WARNING **: 21:16:12.012: Theme directory 32@2x/devices of theme Vimix has no size field
+
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615986972797	Marionette	INFO	Listening on port 46431
+1615986972848	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615986978176	Marionette	INFO	Stopped listening on port 46431
+1615988771725	geckodriver	INFO	Listening on 127.0.0.1:33081
+1615988771729	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0gFgW5"
+
+(firefox:27212): Gtk-WARNING **: 21:46:12.110: Theme directory 32@2x/devices of theme Vimix has no size field
+
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615988772957	Marionette	INFO	Listening on port 37283
+1615988773051	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615988778448	Marionette	INFO	Stopped listening on port 37283
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1615989677272	geckodriver	INFO	Listening on 127.0.0.1:50619
+1615989677275	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilebqTK1S"
+
+(firefox:28786): Gtk-WARNING **: 22:01:17.672: Theme directory 32@2x/devices of theme Vimix has no size field
+
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615989678556	Marionette	INFO	Listening on port 35325
+1615989678589	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615989684013	Marionette	INFO	Stopped listening on port 35325
+1616004077371	geckodriver	INFO	Listening on 127.0.0.1:40317
+1616004077374	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileoHxH2r"
+
+(firefox:16093): Gtk-WARNING **: 02:01:17.796: Theme directory 32@2x/devices of theme Vimix has no size field
+
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616004078643	Marionette	INFO	Listening on port 36957
+1616004078692	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616004084066	Marionette	INFO	Stopped listening on port 36957
+1616018477471	geckodriver	INFO	Listening on 127.0.0.1:41315
+1616018477475	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile6BreiJ"
+
+(firefox:2823): Gtk-WARNING **: 06:01:17.845: Theme directory 32@2x/devices of theme Vimix has no size field
+
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616018478656	Marionette	INFO	Listening on port 40127
+1616018478692	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616018484076	Marionette	INFO	Stopped listening on port 40127
+1616032877494	geckodriver	INFO	Listening on 127.0.0.1:55245
+1616032877497	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileThq4h8"
+
+(firefox:22015): Gtk-WARNING **: 10:01:17.874: Theme directory 32@2x/devices of theme Vimix has no size field
+
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616032878788	Marionette	INFO	Listening on port 34715
+1616032878810	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616032883995	Marionette	INFO	Stopped listening on port 34715
+1616249127877	geckodriver	INFO	Listening on 127.0.0.1:35519
+1616249128880	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilehDo0oz"
+
+(firefox:28774): Gtk-WARNING **: 22:05:29.313: Theme directory 32@2x/devices of theme Vimix has no size field
+
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616249130172	Marionette	INFO	Listening on port 46451
+1616249130199	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616249135606	Marionette	INFO	Stopped listening on port 46451
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1616263527914	geckodriver	INFO	Listening on 127.0.0.1:55819
+1616263527918	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilejU3tZa"
+
+(firefox:15664): Gtk-WARNING **: 02:05:28.296: Theme directory 32@2x/devices of theme Vimix has no size field
+
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616263529073	Marionette	INFO	Listening on port 40655
+1616263529132	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616263534514	Marionette	INFO	Stopped listening on port 40655
+1616277927918	geckodriver	INFO	Listening on 127.0.0.1:53989
+1616277927923	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilec72ZyU"
+
+(firefox:20876): Gtk-WARNING **: 06:05:28.363: Theme directory 32@2x/devices of theme Vimix has no size field
+
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616277929219	Marionette	INFO	Listening on port 46079
+1616277929238	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616277934633	Marionette	INFO	Stopped listening on port 46079
+1616292328011	geckodriver	INFO	Listening on 127.0.0.1:46925
+1616292328015	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJSkoS7"
+
+(firefox:8112): Gtk-WARNING **: 10:05:28.410: Theme directory 32@2x/devices of theme Vimix has no size field
+
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616292329256	Marionette	INFO	Listening on port 37191
+1616292329332	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616292334740	Marionette	INFO	Stopped listening on port 37191
+1616421657874	geckodriver	INFO	Listening on 127.0.0.1:35157
+1616421658876	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilev4qvCp"
+
+(firefox:27994): Gtk-WARNING **: 22:00:59.288: Theme directory 32@2x/devices of theme Vimix has no size field
+
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616421660110	Marionette	INFO	Listening on port 43891
+1616421660195	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616421665786	Marionette	INFO	Stopped listening on port 43891
+1616436058004	geckodriver	INFO	Listening on 127.0.0.1:50353
+1616436059007	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFsp7iC"
+
+(firefox:16361): Gtk-WARNING **: 02:00:59.458: Theme directory 32@2x/devices of theme Vimix has no size field
+
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616436060273	Marionette	INFO	Listening on port 36845
+1616436060326	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616436065674	Marionette	INFO	Stopped listening on port 36845
+1616450458053	geckodriver	INFO	Listening on 127.0.0.1:56489
+1616450458057	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileSyzWBl"
+
+(firefox:2981): Gtk-WARNING **: 06:00:58.461: Theme directory 32@2x/devices of theme Vimix has no size field
+
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616450459235	Marionette	INFO	Listening on port 35553
+1616450459277	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616450464639	Marionette	INFO	Stopped listening on port 35553
+1616464858057	geckodriver	INFO	Listening on 127.0.0.1:47839
+1616464858060	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilexq5tqZ"
+
+(firefox:22151): Gtk-WARNING **: 10:00:58.434: Theme directory 32@2x/devices of theme Vimix has no size field
+
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616464859324	Marionette	INFO	Listening on port 37723
+1616464859377	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616464864721	Marionette	INFO	Stopped listening on port 37723
+1616479258157	geckodriver	INFO	Listening on 127.0.0.1:53161
+1616479258161	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileHC3wpb"
+
+(firefox:9543): Gtk-WARNING **: 14:00:58.544: Theme directory 32@2x/devices of theme Vimix has no size field
+
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616479259333	Marionette	INFO	Listening on port 38395
+1616479259379	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616479264817	Marionette	INFO	Stopped listening on port 38395
+1616493658196	geckodriver	INFO	Listening on 127.0.0.1:37537
+1616493658201	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileHt29Bc"
+
+(firefox:5069): Gtk-WARNING **: 18:00:58.575: Theme directory 32@2x/devices of theme Vimix has no size field
+
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616493659440	Marionette	INFO	Listening on port 43433
+1616493659519	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616493664889	Marionette	INFO	Stopped listening on port 43433
+1616509687404	geckodriver	INFO	Listening on 127.0.0.1:51001
+1616509687408	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilet2OE4Q"
+
+(firefox:6785): Gtk-WARNING **: 22:28:07.800: Theme directory 32@2x/devices of theme Vimix has no size field
+
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616509688666	Marionette	INFO	Listening on port 42515
+1616509688728	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616509694074	Marionette	INFO	Stopped listening on port 42515
+1616524087504	geckodriver	INFO	Listening on 127.0.0.1:37889
+1616524087507	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5bJqeL"
+
+(firefox:25952): Gtk-WARNING **: 02:28:07.883: Theme directory 32@2x/devices of theme Vimix has no size field
+
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616524088773	Marionette	INFO	Listening on port 46143
+1616524088825	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616524094194	Marionette	INFO	Stopped listening on port 46143
+1616538487604	geckodriver	INFO	Listening on 127.0.0.1:45123
+1616538487608	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilel2w64h"
+
+(firefox:13028): Gtk-WARNING **: 06:28:07.986: Theme directory 32@2x/devices of theme Vimix has no size field
+
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616538488828	Marionette	INFO	Listening on port 36567
+1616538488928	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616538494321	Marionette	INFO	Stopped listening on port 36567
+1616552887704	geckodriver	INFO	Listening on 127.0.0.1:36827
+1616552887708	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileNJwTCx"
+
+(firefox:32138): Gtk-WARNING **: 10:28:08.094: Theme directory 32@2x/devices of theme Vimix has no size field
+
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616552888894	Marionette	INFO	Listening on port 33883
+1616552888924	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616552894088	Marionette	INFO	Stopped listening on port 33883
+1616567287807	geckodriver	INFO	Listening on 127.0.0.1:46175
+1616567287810	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilebQqaWn"
+
+(firefox:19404): Gtk-WARNING **: 14:28:08.205: Theme directory 32@2x/devices of theme Vimix has no size field
+
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616567289052	Marionette	INFO	Listening on port 36519
+1616567289127	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616567294502	Marionette	INFO	Stopped listening on port 36519
+1616822831142	geckodriver	INFO	Listening on 127.0.0.1:38233
+1616822832145	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileWNKFAq"
+
+(firefox:2987): Gtk-WARNING **: 13:27:12.536: Theme directory 32@2x/devices of theme Vimix has no size field
+
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616822833393	Marionette	INFO	Listening on port 39191
+1616822833463	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 775))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 422))
+1616822848122	Marionette	INFO	Stopped listening on port 39191
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1616823019032	geckodriver	INFO	Listening on 127.0.0.1:51849
+1616823019035	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilew1VpPg"
+
+(firefox:5023): Gtk-WARNING **: 13:30:19.453: Theme directory 32@2x/devices of theme Vimix has no size field
+
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616823020234	Marionette	INFO	Listening on port 36771
+1616823020249	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 775))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 422))
+1616823034643	Marionette	INFO	Stopped listening on port 36771
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
