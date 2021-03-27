@@ -37,7 +37,7 @@ By opening `config.ini` you can manage your own setting.
   - `LOG` the log file path.
 
 ### We Need Automatic !
-- Just run the script below in bash
+- Just run the script below in bash (or in your conda env)
 ```bash
 python main.py
 ```
