@@ -20,7 +20,7 @@ cd auto_BIT_WEB
 ```
 - Install [Geckodriver](https://github.com/mozilla/geckodriver/releases):  
    - Geckodriver is used to drive the browser and simulate mouse action. (I assume you already have Firefox installed on your system.)
-  - After extraction, move the folder to `/usr/bin`.
+  - After extraction, move the file to `/usr/bin`.
   - Then ` sudo gedit /etc/profile`, add the following line to the end of the file:
   `export PATH="$PATH: /opt/firefox:/usr/bin"`
 - Install Selenium:
