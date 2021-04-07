@@ -1,5 +1,6 @@
 # Python Script for BIT-Web Auto Connection
 <br><br>
+[![wakatime](https://wakatime.com/badge/github/MillenniumFalcon1097/auto_BIT_WEB.svg)](https://wakatime.com/badge/github/MillenniumFalcon1097/auto_BIT_WEB)  
 This is a python-implemented script for automatically connecting to BIT-Web. If you find this repo helpful, please click **star** for me.
 BIT-Web refers to the CN of Beijing Institute of Technology named "BIT-Web"
 
