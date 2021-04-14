@@ -31,11 +31,7 @@ cd auto_BIT_WEB
 ### Config your own data  
 By opening `config.ini` you can manage your own setting.
   - `STU_ID` refers to your student ID, eg: 1122334455.
-<<<<<<< HEAD
-  - `PASSWD` refers to your account password, eg: passcode.
-=======
   - `PASSWD` refers to your account password, eg: passcode123.
->>>>>>> 303eef8053549dbfdf5c994d53c87d035e701af4
   - `INTERVAL` in seconds, which stands for the interval between times you want the script to execute. 
   - `PROJ_DIR` the project folder where you put in.
   - `PYTHON_DIR` the python interpreter path you want to execute the script (if you have multiple python interperters, be careful to choose the proper one.)
